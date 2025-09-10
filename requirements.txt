@@ -1,0 +1,4 @@
+chromadb
+# openai
+#pip install chromadb 
+#pip install openai 
