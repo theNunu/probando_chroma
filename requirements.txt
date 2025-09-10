@@ -2,3 +2,4 @@ chromadb
 # openai
 #pip install chromadb 
 #pip install openai 
+# pip install chroma-migrate
